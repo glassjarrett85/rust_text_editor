@@ -1,5 +1,5 @@
 [package]
-name = "terminal"
+name = "rust_text_editor"
 version = "0.1.0"
 edition = "2024"
 
